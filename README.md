@@ -39,8 +39,10 @@ using only their building blocks and reaction information. This innovative appro
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ### Contact
+
 For questions or suggestions, feel free to open an issue or contact us at
 [reginapikalyova@gmail.com](mailto:reginapikalyova@gmail.com) or [tagirshin@gmail.com](mailto:tagirshin@gmail.com).
+
 ---
 
 We hope CoLiNN will help streamline and enhance your combinatorial library design and visualization tasks!
